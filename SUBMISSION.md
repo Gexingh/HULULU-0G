@@ -38,6 +38,6 @@
 
 ## 投稿链接
 
-- 在线 Demo：待部署
+- 在线 Demo：https://www.asihg.com/test02/
 - GitHub：https://github.com/Gexingh/HULULU-0G
 - 演示视频：待上传
